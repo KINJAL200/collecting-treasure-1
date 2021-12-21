@@ -97,9 +97,9 @@ function draw() {
         // swordGroup.destroyEach();
         
          cashG.destroyEach();
-         diamondsGdestroyEach();
-         jewelryGdestroyEach();
-         swordGroupdestroyEach();
+         diamondsG.destroyEach();
+         jewelryG.destroyEach();
+         swordGroup.destroyEach();
         
         cashG.setVelocityYEach(0);
         diamondsG.setVelocityYEach(0);
